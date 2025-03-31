@@ -1,0 +1,6 @@
+@PdfConverter.Api_HostAddress = http://localhost:5286
+
+GET {{PdfConverter.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
