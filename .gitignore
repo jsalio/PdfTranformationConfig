@@ -619,3 +619,6 @@ FodyWeavers.xsd
 
 # custom ignored
 */docs/*
+
+# Ignorar la carpeta docs
+docs/
