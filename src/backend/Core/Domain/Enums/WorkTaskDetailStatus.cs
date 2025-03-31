@@ -1,4 +1,4 @@
-namespace PdfConverter.Core.Domain.Enums
+namespace Backend.Core.Domain.Enums
 {
     public enum WorkTaskDetailStatus
     {
@@ -7,4 +7,4 @@ namespace PdfConverter.Core.Domain.Enums
         Converted = 2,
         Error = 3
     }
-} 
+}
